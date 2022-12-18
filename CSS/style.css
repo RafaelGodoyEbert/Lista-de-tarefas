@@ -58,6 +58,11 @@ select {
     border-radius: 15px;
 }
 
+#todo-input {
+    width: 110%;
+    display: flex;
+}
+
 .todo-container h1 {
     text-align: center;
     padding: 0 1rem 1rem;
