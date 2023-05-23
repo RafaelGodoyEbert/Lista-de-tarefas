@@ -16,6 +16,16 @@ Este projeto consiste em uma lista de tarefas onde os usuários podem adicionar,
 - Marcar uma tarefa como concluída.
 - Excluir uma tarefa.
 
+## Habilidades Objetivadas
+
+Ao trabalhar neste projeto, as habilidades a serem objetivadas incluem:
+
+- Desenvolvimento de aplicativos da web usando HTML, CSS e JavaScript.
+- Manipulação do DOM para atualizar dinamicamente a interface do usuário.
+- Implementação de lógica de programação para adicionar, marcar e excluir tarefas.
+- Utilização de eventos do JavaScript para interagir com os elementos da página.
+- Prática de boas práticas de codificação e organização de projetos.
+
 ## Instalação
 
 1. Faça um clone deste repositório.
