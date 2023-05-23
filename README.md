@@ -26,9 +26,6 @@ Este projeto consiste em uma lista de tarefas onde os usuários podem adicionar,
 
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://github.com/RafaelGodoyEbert/Lista-de-tarefas/blob/main/LICENSE).
 
 ## Contato
 
